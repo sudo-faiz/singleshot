@@ -13,7 +13,7 @@ Open your terminal and run the following commands:
 
 ```bash
 # 1. Download the tool
-git clone [https://github.com/sudo-faiz/singleshot.git](https://github.com/sudo-faiz/singleshot.git)
+git clone https://github.com/sudo-faiz/singleshot.git
 cd singleshot
 
 # 2. Give execution permission
