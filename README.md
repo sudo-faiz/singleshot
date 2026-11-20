@@ -20,4 +20,5 @@ cd singleshot
 chmod +x singleshot.sh
 
 # 3. Run the scan (Example)
-./singleshot.sh google.com
+./singleshot.sh google.com OR
+bash singleshot.sh google.com
